@@ -1,6 +1,7 @@
+# MolMFD
 # Molecular representation learning via multimodal fusion and decoupling
 
-Official implementation of paper: Molecular representation learning via multimodal fusion and decoupling (Information Fusion 2025) [[MolMFD](https://doi.org/10.1016/j.inffus.2025.103493)]
+Official implementation of MolMFD model in the paper: Molecular representation learning via multimodal fusion and decoupling (Information Fusion 2025) [[MolMFD](https://doi.org/10.1016/j.inffus.2025.103493)]
 
 ## Environment Setup
 
